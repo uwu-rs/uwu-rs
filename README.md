@@ -1,1 +1,1 @@
-https://komarev.com/ghpvc/?username=uwu-rs
+![](https://komarev.com/ghpvc/?username=uwu-rs)
